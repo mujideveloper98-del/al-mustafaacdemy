@@ -1,0 +1,15 @@
+.anav{
+  background-image: linear-gradient(to bottom, #007bff 0%, #7e57c2 85%, #4a148c 100%);
+height: 1cm;
+  background-color: #007bff;
+  display: flex;
+color: white;
+align-items: center;
+}
+.c{ 
+    padding-right: 9px;
+     margin-left: auto;
+}
+.b{
+    margin-left: 12px;
+}
